@@ -25,21 +25,24 @@ This project demonstrates how to host a static HTML website on an AWS EC2 instan
 
 ### 2. Connect to EC2 via SSH
 
-```bash
+bash
 ssh -i "your-key.pem" ec2-user@<EC2-PUBLIC-IP>
 
 ### 3. Install Apache Server
+
 sudo yum update -y
 sudo yum install httpd -y
 sudo systemctl start httpd
 sudo systemctl enable httpd
 
 ### 4. Upload Your Website
+
 cd /var/www/html
 sudo rm -f index.html
 sudo nano index.html  # or upload via SCP
 
 ### 5. Visit the Site
+
 Open a browser and go to:
 http://<EC2-PUBLIC-IP>
 
