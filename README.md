@@ -46,4 +46,7 @@ sudo nano index.html  # or upload via SCP
 Open a browser and go to:
 http://<EC2-PUBLIC-IP>
 
+<img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/daf17670-9020-45d6-9df8-7e80fb5094d5" />
+
+<img width="2880" height="1800" alt="Screenshot (78)" src="https://github.com/user-attachments/assets/57bc3265-12b0-4ff1-8ca2-c9689291ad7a" />
 
