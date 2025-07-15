@@ -47,7 +47,7 @@ Open a browser and go to:
 http://<EC2-PUBLIC-IP>
 
 <>
+<img width="2880" height="1614" alt="Screenshot (79)" src="https://github.com/user-attachments/assets/8da9b964-c396-4bc1-9785-af0420e3329f" />
 
-<img width="2880" height="1800" alt="Screenshot (79)" src="https://github.com/user-attachments/assets/847170dd-222a-456b-a970-e4d25448a6bd" />
 
 
